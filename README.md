@@ -11,3 +11,5 @@ Xresources.txt -> .Xresources
 texsnippets.txt -> tex.snippets
 
 These files do not all belong in the same place. Google around!
+
+Also included is the large preamble I use for pretty much all my LaTeX files.b
